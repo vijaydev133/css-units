@@ -1,0 +1,67 @@
+body{
+    /* font-size: 16px; */
+}
+
+/* Relative unit
+% 
+*/
+.container{
+    width: 550px;
+    height:250px;
+    border: 2px solid red;
+}
+
+.cont1{
+    width: 50%;
+    height: 50%;
+    border: 2px solid green;
+}
+
+
+
+
+
+/* rem */
+/* h1{
+    font-size: 2rem;
+} */
+/* button{
+    padding: 1rem;
+    margin: 2rem;
+} */
+
+
+/* vw */
+/* .cont1{
+   width: 30vw; 
+} */
+
+/* vh */
+/* .cont1{
+    height: 25vh;
+} */
+
+/* em */
+
+/* .em{
+    font-size: 12px;
+} */
+
+/* h1{
+    font-size: 2em;
+    padding: 2em;
+    border: 2px solid red;
+} */
+
+
+
+/* Absolute unit
+
+*/
+
+
+
+/* px */
+/* h1{
+    font-size: 16px;
+} */
